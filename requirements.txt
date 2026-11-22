@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+implicit==0.7.3
+jupyter
+matplotlib
+seaborn
+pytest

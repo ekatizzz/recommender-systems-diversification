@@ -1,0 +1,22 @@
+{
+  "raw_interactions": 2023070,
+  "raw_users": 1210271,
+  "raw_items": 249274,
+  "after_rating_filter": 2023070,
+  "interactions": 198502,
+  "users": 22363,
+  "items": 12101,
+  "share_test_ts_tied_with_val": 0.4346017976121272,
+  "share_val_ts_tied_with_last_train": 0.47676966417743594,
+  "train": 153776,
+  "validation": 22363,
+  "test": 22363,
+  "cold_share_validation": 0.002280552698654027,
+  "cold_share_test_vs_train": 0.006170907302240308,
+  "cold_share_test_vs_train_plus_val": 0.0023252694182354784,
+  "config": {
+    "min_rating": null,
+    "min_user": 5,
+    "min_item": 5
+  }
+}
